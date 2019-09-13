@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/Construction_Site/SampleScenes/Construction_Site_SampleLayout.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
